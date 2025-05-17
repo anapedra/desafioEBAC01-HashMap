@@ -1,0 +1,17 @@
+method,scale,time_ms
+addClient,1000,14
+getClient,1000,3
+removeClient,1000,1
+clearClients,1000,0
+addClient,5000,14
+getClient,5000,3
+removeClient,5000,9
+clearClients,5000,0
+addClient,10000,19
+getClient,10000,2
+removeClient,10000,2
+clearClients,10000,0
+addClient,20000,20
+getClient,20000,3
+removeClient,20000,4
+clearClients,20000,0
